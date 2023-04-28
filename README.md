@@ -17,9 +17,9 @@ Fay（https://github.com/TheRamU/Fay）Fay是一个完整的开源项目，包�
 ### **人物形象：** 
 ![](images/lucky.png)
 
-工程下载地址：正在上传
+工程下载地址：链接：https://pan.baidu.com/s/13PwPbccBFB1zd_kPKC95zQ?pwd=j5ji 
 
-windows文件下载地址：正在上传
+windows运行包下载地址：链接：https://pan.baidu.com/s/1H2FMMI4BDKUCm3DKNRPs5w?pwd=m3ur 
 
 ## **二、所需插件**
 ![](images/chajian.png)

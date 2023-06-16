@@ -60,11 +60,20 @@
  ## **七、关键技术**
 
  + 唇形同步应用OVRLipSync
+
  + 通过websocket 与Fay控制器对接（https://github.com/TheRamU/Fay）实现人机交互
+
  + 依据情绪变化自动切换表情
+
  + 关卡蓝图与表情蓝图通过蓝图接口通讯
+
  + 工程内的人物可替换其他Metahuman模型
+
  + 姿体动作可修改
+
+   
+
+   注：工程讲解：https://m.bilibili.com/video/BV1Zh4y1g7o7
 
 
 

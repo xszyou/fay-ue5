@@ -2,8 +2,9 @@
     <br>
     <img src="images/icon.png" alt="Fay">
     <h1>FAY</h1>
-	<h3>Fay  UE5工程</h3>
+	<h3>Fay  UE5工程(Metahuman)</h3>
 </div>
+
 
 
 （https://github.com/TheRamU/Fay）[Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。开发人员可以利用该项目简单地构建各种类型的数字人或数字助理。该项目各模块之间耦合度非常低，包括声音来源、语音识别、情绪分析、NLP处理、情绪语音合成、语音输出和表情动作输出等模块。每个模块都可以轻松地更换。此工程是Fay配套的UE数字人。]
@@ -17,9 +18,8 @@
 ### **人物形象：** 
 ![](images/lucky.png)
 
-工程下载地址：链接：https://pan.baidu.com/s/13PwPbccBFB1zd_kPKC95zQ?pwd=j5ji 
+工程下载地址链接：https://pan.baidu.com/s/1QvRwkDmqLn6kbL16xk28XA?pwd=osqf 
 
-windows运行包下载地址：链接：https://pan.baidu.com/s/1H2FMMI4BDKUCm3DKNRPs5w?pwd=m3ur 
 
 ## **二、所需插件**
 ![](images/chajian.png)
@@ -27,33 +27,50 @@ windows运行包下载地址：链接：https://pan.baidu.com/s/1H2FMMI4BDKUCm3D
 
  ## **三、主要通讯逻辑**
 
+作为websocket客户端去自动连接websocket服务器，接收如下接口数据：
 
-![](images/socket.png)
-
-
-## **四、蓝图关卡**
-
-### **状态机做表情切换** 
-![](images/zhuangtaiji.png)
-
-### **蓝图接口数据传输** 
-![](images/jiekou.png)
-
-### **face蓝图呈现人物动作和表情**
-![](images/zht.png)
+[Fay/WebSocket.md at main · TheRamU/Fay (github.com)](https://github.com/TheRamU/Fay/blob/main/WebSocket.md)
 
 
- ## **五、其他**
+## **四、关卡蓝图**
 
- + 唇形同步主要应用MetahumanSDK，启用插件需先获取APIToken
- + 工程内的人物可替换
+
+
+![](images/guankabp.png)
+
+
+
+
+
+## 五、表情蓝图**
+
+
+
+![](images/biaoqingbp.png)
+
+
+
+## 六、脸部合成**
+
+
+
+![](images/biaoqingbp2.png)
+
+
+ ## **七、关键技术**
+
+ + 唇形同步应用OVRLipSync
+ + 通过websocket 与Fay控制器对接（https://github.com/TheRamU/Fay）实现人机交互
+ + 依据情绪变化自动切换表情
+ + 关卡蓝图与表情蓝图通过蓝图接口通讯
+ + 工程内的人物可替换其他Metahuman模型
  + 姿体动作可修改
 
 
 
-技术交流群：
+技术交流群：关注 Fay数字人 公众号，进入 UE交流群
 
-![](images/qrcode.png)
+![](images/gzh.jpg)
 
 
 

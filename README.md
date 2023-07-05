@@ -18,7 +18,7 @@
 ### **人物形象：** 
 ![](images/lucky.png)
 
-工程下载地址链接：https://pan.baidu.com/s/1QvRwkDmqLn6kbL16xk28XA?pwd=osqf 
+工程下载地址链接：链接：https://pan.baidu.com/s/1pdNCHyIDPhLfTcR354_PVQ?pwd=ngk9 （exe运行包请关注公众号，发你有趣的数字人运行视频获取）
 
 
 ## **二、所需插件**
@@ -59,7 +59,7 @@
 
  ## **七、关键技术**
 
- + 唇形同步应用OVRLipSync
+ + 唇形同步应用OVRLipSync （c++工程：链接：https://pan.baidu.com/s/1ziGFsDNKQ5Y4P4GGqOCGvA?pwd=iy1d ）
 
  + 通过websocket 与Fay控制器对接（https://github.com/TheRamU/Fay）实现人机交互
 
@@ -77,7 +77,11 @@
 
 
 
-技术交流群：关注 Fay数字人 公众号，进入 UE交流群
+关注 Fay数字人 公众号：
+
+1、进入 UE交流群、微信交流群
+
+2、发你有趣的数字人运行视频到公众号获取exe运行包
 
 ![](images/gzh.jpg)
 

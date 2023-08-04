@@ -18,7 +18,7 @@
 ### **人物形象：** 
 ![](images/lucky.png)
 
-工程下载地址链接：链接：https://pan.baidu.com/s/1pdNCHyIDPhLfTcR354_PVQ?pwd=ngk9 （exe运行包请关注公众号，发你有趣的数字人运行视频获取）
+工程下载地址链接：链接：https://pan.baidu.com/s/1P_yNzKKo-SEeUiLtvJnCBA?pwd=vp4l（exe运行包请关注公众号，发你的数字人运行视频获取）
 
 
 ## **二、所需插件**

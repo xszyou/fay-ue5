@@ -2,90 +2,61 @@
     <br>
     <img src="images/icon.png" alt="Fay">
     <h1>FAY</h1>
-	<h3>Fay  UE5工程(Metahuman)</h3>
+	<h3>UE5 数字人工程(Metahuman)</h3>
 </div>
 
 
 
-（https://github.com/TheRamU/Fay）[Fay是一个完整的开源项目，包含Fay控制器及数字人模型，可灵活组合出不同的应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her。开发人员可以利用该项目简单地构建各种类型的数字人或数字助理。该项目各模块之间耦合度非常低，包括声音来源、语音识别、情绪分析、NLP处理、情绪语音合成、语音输出和表情动作输出等模块。每个模块都可以轻松地更换。此工程是Fay配套的UE数字人。]
+[此工程是一个完整的UE数字字人开源工程，可以配合Fay数字人控制器，实现各种应用场景：虚拟主播、现场推销货、商品导购、语音助理、远程语音助理、数字人互动、数字人面试官及心理测评、贾维斯、Her]（https://github.com/TheRamU/Fay）
 
-## **一、UE引擎**
+## **一、使用逻辑**
 
-### **引擎版本：** 5.03
-### **人物属性：** Metahuman
-### **人物表情：** smile、laugh、angry
-### **人物动作：**  Sequencer动画序列
-### **人物形象：** 
+1、[如何进行抖音直播](https://www.bilibili.com/video/BV1r3411Z7St/?spm_id_from=333.999.0.0&vd_source=1364af6ac23a05600acd8f8415936944)
+
+2、[如何进行B站直播](https://www.bilibili.com/video/BV14h4y1N716/?spm_id_from=333.999.0.0&vd_source=1364af6ac23a05600acd8f8415936944)
+
+3、[如何进行人机交互](https://blog.csdn.net/aa84758481/article/details/132204938?spm=1001.2014.3001.5502)
+
+
+
+## **二、UE工程说明**
+
+1、[UE基本操作及数字人工程模块组成](https://blog.csdn.net/aa84758481/article/details/132204938?spm=1001.2014.3001.5502)
+
+
+2、[UE数字人工程运行逻辑及程序逻辑](https://blog.csdn.net/aa84758481/article/details/132335739?spm=1001.2014.3001.5502)
+
+ ## **三、历史版本**
+
+**1、UE4.27 男模陈升**
+
+![](images/20230901234331.png)
+
+[下载工程](https://pan.baidu.com/s/1RBo2Pie6A5yTrCf1cn_Tuw?pwd=ck99)
+
+[Windows一键运行包](https://pan.baidu.com/s/1CsJ647uV5rS2NjQH3QT0Iw?pwd=s9s8)
+
+
+**2、UE5.03 Girl_night**
+
+![](images/20230901233804.png)
+
+[下载工程](https://pan.baidu.com/s/10Pn-smG9nkg5-jjmZqnEOA?pwd=n4nd)
+
+
+
+**3、UE5.03 本地唇形Girl_lip**
+
 ![](images/lucky.png)
 
-工程下载地址链接：链接：https://pan.baidu.com/s/1P_yNzKKo-SEeUiLtvJnCBA?pwd=vp4l（exe运行包请关注公众号，发你的数字人运行视频获取）
-
-
-## **二、所需插件**
-![](images/chajian.png)
-
-
- ## **三、主要通讯逻辑**
-
-作为websocket客户端去自动连接websocket服务器，接收如下接口数据：
-
-[Fay/WebSocket.md at main · TheRamU/Fay (github.com)](https://github.com/TheRamU/Fay/blob/main/WebSocket.md)
-
-
-## **四、关卡蓝图**
+[下载工程](https://pan.baidu.com/s/1S_0LZE2X37pVNWEvc4GiLA?pwd=ehbf )
 
 
 
-![](images/guankabp.png)
+**4、UE5.03 8月版**
 
+![](images/image-20230817100447582.png)
 
+[下载工程](https://pan.baidu.com/s/1TtZD0jrG5xRqAMtydjBbew?pwd=mryc)
 
-
-
-## 五、表情蓝图**
-
-
-
-![](images/biaoqingbp.png)
-
-
-
-## 六、脸部合成**
-
-
-
-![](images/biaoqingbp2.png)
-
-
- ## **七、关键技术**
-
- + 唇形同步应用OVRLipSync （c++工程：链接：https://pan.baidu.com/s/1ziGFsDNKQ5Y4P4GGqOCGvA?pwd=iy1d ）
-
- + 通过websocket 与Fay控制器对接（https://github.com/TheRamU/Fay）实现人机交互
-
- + 依据情绪变化自动切换表情
-
- + 关卡蓝图与表情蓝图通过蓝图接口通讯
-
- + 工程内的人物可替换其他Metahuman模型
-
- + 姿体动作可修改
-
-   
-
-   注：工程讲解：https://m.bilibili.com/video/BV1Zh4y1g7o7
-
-
-
-关注 Fay数字人 公众号：
-
-1、进入 UE交流群、微信交流群
-
-2、发你有趣的数字人运行视频到公众号获取exe运行包
-
-![](images/gzh.jpg)
-
-
-
-
-
+[视频说明](https://www.bilibili.com/video/BV1mz4y1M7pq/)

@@ -17,6 +17,10 @@
 
 3、[如何进行人机交互](https://blog.csdn.net/aa84758481/article/details/132204938?spm=1001.2014.3001.5502)
 
+4、[OVRLipsync唇形算法代码](https://pan.baidu.com/s/1ph8mzpZ3aYMI8HFa8-6prA?pwd=tin1)
+
+
+
 
 
 ## **二、UE工程说明**

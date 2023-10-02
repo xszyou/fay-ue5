@@ -64,3 +64,14 @@
 [下载工程](https://pan.baidu.com/s/1TtZD0jrG5xRqAMtydjBbew?pwd=mryc)
 
 [视频说明](https://www.bilibili.com/video/BV1mz4y1M7pq/)
+
+**5、9月版**
+
+![ue数字人9月版](images\ue5_2309.png)
+
+工程下载地址：https://pan.baidu.com/s/1D-RSxTv2mG4waN_ltJq8aQ?pwd=n233 
+
+改进：新模型；使用[唇形BS](唇形bs.doc)；
+
+UE编辑器版本：5.0.3
+

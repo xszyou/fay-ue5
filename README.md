@@ -83,3 +83,22 @@ UE版本：5.0.3，唇型：视音素BS ，驱动接口：接收音频文件路�
 工程下载地址：https://pan.baidu.com/s/10ASvGYQMpSrZV8OtXCmDdw?pwd=plz1 
 
 唇型BS说明：https://www.bilibili.com/video/BV1G94y1V75W
+
+
+
+**6、10月版**
+
+![ue数字人9月版](images/20231127222021.png)
+
+UE版本：5.0.3，唇型：优化视音素 ，驱动接口：接收音频文件路径、接音音频视音素序列、接收情绪值、接收控制台日志、接收用户问题文本、回复说话完成状态，
+
+改进：全新模型、[提供VR运行包（视频）](https://b23.tv/1W0sJZv)、优化唇形、改进web socket 状态显示逻辑、降低性能资源消耗。
+
+工程下载地址：链接：https://pan.baidu.com/s/1Fal4ZvL-pL5g_bdsWJIcaw?pwd=4bz8  
+
+VR运行包下载地址(含普通运行包)：https://pan.baidu.com/s/1m7a-METJFaFmwyRKwDeTRQ?pwd=ztmh 
+
+VR效果：https://b23.tv/1W0sJZv
+
+
+

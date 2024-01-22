@@ -50,7 +50,7 @@ UE版本：4.27，唇型：固定动画 ，驱动接口：接收音频文件路�
 
 UE版本：5.0.3，唇型：Metahuman SDK ，驱动接口：接收文本、接收情绪值
 
-[下载工程](https://pan.baidu.com/s/1z2f01NP4ELc...ud0Zxg?pwd=cd29)
+[下载工程](https://pan.baidu.com/s/1frJA1ChdpPlmN4G_KWm4Rg?pwd=crzj)
 
 
 

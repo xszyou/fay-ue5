@@ -100,5 +100,16 @@ VR运行包下载地址(含普通运行包)：https://pan.baidu.com/s/1m7a-METJF
 
 VR效果：https://b23.tv/1W0sJZv
 
+**7、emily**
+
+![ue数字人9月版](images/emily.png)
+
+UE版本：5.0.3，唇型：视音素 ，驱动接口：接收音频文件路径、接音音频视音素序列、接收情绪值、接收控制台日志、接收用户问题文本、回复说话完成状态，
+
+改进：全新模型、提供站姿绿幕包。
+
+工程下载地址：https://pan.baidu.com/s/1lUPK5G0-BLwfgu3LrfulCQ?pwd=wesr 
+
+运行包下载地址：https://pan.baidu.com/s/1VaWmA8_0s8wmlaWBCUihog?pwd=02dx 
 
 

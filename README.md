@@ -116,18 +116,18 @@ UE版本：5.0.3，唇型：视音素 ，驱动接口：接收音频文件路径
 
 
 
-**8、fay ue5.3**
+**8、fay ue5.3(20240429更新)**
 
 ![ue数字人9月版](images/08.png)
 
-UE版本：5.3，唇型：视音素 ，驱动接口：接收音频文件路径、接音音频视音素序列、接收情绪值、接收控制台日志、接收用户问题文本、回复说话完成状态。
+UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
-插件：BlueprintWebSocket、JSON Blueprint 、Runtime Audio lmporter
+插件：AZSpeech(key在metahuman蓝图上配置)、HttpGPT(节点在metahuman蓝图上配置，可以配置到Fay所在的主机如:http://127.0.0.1:5000)
 
-改进：全新模型、支持最新5.3引擎。
+改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1hhlaCElYNUD_L_qvcwRGqA?pwd=kx73
+工程下载地址：https://pan.baidu.com/s/1Lhwu-K7rSR82MA2S33boMw?pwd=1hrf 
 
-运行包下载地址：请加入付费qq群索取
+运行包下载地址：请自行使用ue打包。
 
 

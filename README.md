@@ -12,6 +12,28 @@
 
 （加入交流群请关注公众号：fay数字人）
 
+**同步更新工程(20240515)**
+
+![ue数字人9月版](images/08.png)
+
+UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
+
+插件：AZSpeech(key在metahuman蓝图上配置)、HttpGPT(节点在metahuman蓝图上配置，可以配置到Fay所在的主机如:http://127.0.0.1:5000)
+
+改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
+
+工程下载地址：https://pan.baidu.com/s/1bWk96_A-C9lYhFybCwaeEQ?pwd=rz4m
+
+运行包下载地址：请自行使用ue打包。
+
+
+
+2024-05-15
+
+1、增加语音按钮，方便网页端和移动端操作。
+
+
+
 ## **一、使用逻辑**
 
 1、[如何进行抖音直播](https://www.bilibili.com/video/BV1r3411Z7St/?spm_id_from=333.999.0.0&vd_source=1364af6ac23a05600acd8f8415936944)
@@ -30,7 +52,6 @@
 
 1、[UE基本操作及数字人工程模块组成](https://blog.csdn.net/aa84758481/article/details/132204938?spm=1001.2014.3001.5502)
 
-
 2、[UE数字人工程运行逻辑及程序逻辑](https://blog.csdn.net/aa84758481/article/details/132335739?spm=1001.2014.3001.5502)
 
  ## **三、历史版本**
@@ -41,10 +62,9 @@
 
 UE版本：4.27，唇型：固定动画 ，驱动接口：接收音频文件路径、接收情绪值
 
-[下载工程](https://pan.baidu.com/s/1RBo2Pie6A5yTrCf1cn_Tuw?pwd=ck99)
+[下载工程](https://pan.baidu.com/s/1cAa7IrzjyHMv__wAx_0WsA?pwd=645g)
 
 [Windows一键运行包](https://pan.baidu.com/s/1CsJ647uV5rS2NjQH3QT0Iw?pwd=s9s8)
-
 
 **2、UE5.03 Girl_night**
 
@@ -113,21 +133,5 @@ UE版本：5.0.3，唇型：视音素 ，驱动接口：接收音频文件路径
 工程下载地址：https://pan.baidu.com/s/1lUPK5G0-BLwfgu3LrfulCQ?pwd=wesr 
 
 运行包下载地址：https://pan.baidu.com/s/1VaWmA8_0s8wmlaWBCUihog?pwd=02dx 
-
-
-
-**8、fay ue5.3(20240429更新)**
-
-![ue数字人9月版](images/08.png)
-
-UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
-
-插件：AZSpeech(key在metahuman蓝图上配置)、HttpGPT(节点在metahuman蓝图上配置，可以配置到Fay所在的主机如:http://127.0.0.1:5000)
-
-改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
-
-工程下载地址：https://pan.baidu.com/s/1Lhwu-K7rSR82MA2S33boMw?pwd=1hrf 
-
-运行包下载地址：请自行使用ue打包。
 
 

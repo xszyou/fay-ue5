@@ -12,7 +12,7 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240515)**
+**同步更新工程(20240522)**
 
 ![ue数字人9月版](images/08.png)
 
@@ -22,9 +22,15 @@ UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1bWk96_A-C9lYhFybCwaeEQ?pwd=rz4m
+工程下载地址：https://pan.baidu.com/s/1ZzTdkjw7SQnQLVrHWowmaw?pwd=xxvr
 
 运行包下载地址：请自行使用ue打包。
+
+2024-05-22
+
+1、增加文本输入框（与Fay会同步消息），方便网页端和移动端操作。
+
+效果：[Fay新5.3UE工程效果_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1kr421j7Gv/)
 
 
 

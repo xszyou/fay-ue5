@@ -12,7 +12,7 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240522)**
+**同步更新工程(20240606)**
 
 ![ue数字人9月版](images/08.png)
 
@@ -22,9 +22,17 @@ UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1ZzTdkjw7SQnQLVrHWowmaw?pwd=xxvr
+工程下载地址：https://pan.baidu.com/s/1iic2u1CyFBkF09d9iWE51w?pwd=ajc5 
 
 运行包下载地址：请自行使用ue打包。
+
+2024-06-05
+
+1、通讯优化；
+2、对话框界面优化；
+3、新增退出按钮。
+
+![image-20240606094854932](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240606094854932.png)
 
 2024-05-22
 

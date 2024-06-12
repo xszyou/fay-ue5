@@ -22,7 +22,7 @@ UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1iic2u1CyFBkF09d9iWE51w?pwd=ajc5 
+工程下载地址：https://pan.baidu.com/s/1qkZy3DnS2ooNMF7XqzrUgw?pwd=03rg
 
 运行包下载地址：请自行使用ue打包。
 

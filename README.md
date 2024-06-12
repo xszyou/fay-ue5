@@ -12,9 +12,9 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240606)**
+**同步更新工程(20240612)**
 
-![ue数字人9月版](images/08.png)
+![ue数字人9月版](images/new.png)
 
 UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
@@ -26,13 +26,19 @@ UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 运行包下载地址：请自行使用ue打包。
 
+2024-06-12
+
+1、修复消息窗口消息重叠显示问题；
+
+2、开放azure api 区域设置。
+
 2024-06-05
 
 1、通讯优化；
-2、对话框界面优化；
-3、新增退出按钮。
 
-![image-20240606094854932](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20240606094854932.png)
+2、对话框界面优化；
+
+3、新增退出按钮。
 
 2024-05-22
 

@@ -12,9 +12,9 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240717)**
+**同步更新工程(20240724)**
 
-![ue数字人9月版](images/new.png)
+![ue数字人](images/new.png)
 
 UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
@@ -22,9 +22,17 @@ UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1AZ-L9EgmBfvmc1fERERnVA?pwd=zfum 
+工程下载地址：https://pan.baidu.com/s/1Ftz9kmFi3M_IqPA1xcE1uw?pwd=tuba 
 
 运行包下载地址：请自行使用ue打包。
+
+2024-07-24
+
+1、修复与Fay的默认连接；
+
+2、优化Fay静候动画序列；
+
+3、优化Fay待发言思考动画序列。
 
 2024-07-17
 

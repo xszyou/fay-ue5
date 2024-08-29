@@ -12,19 +12,31 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240724)**
+**同步更新工程(20240829)**
 
 ![ue数字人](images/new.png)
 
-UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
+UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
 插件：AZSpeech(key在metahuman本体蓝图上配置)
 
 改进：全新模型、支持最新5.3引擎、使用azure全家桶、支持与Fay异地、支持网页推流、支持打包android、ios及pc客户端。
 
-工程下载地址：https://pan.baidu.com/s/1Ftz9kmFi3M_IqPA1xcE1uw?pwd=tuba 
+ue azure运行包
 
-运行包下载地址：请自行使用ue打包。
+链接: https://pan.baidu.com/s/1ZxsjVTB1nh89JJv3L5JmHg?pwd=k57d 
+
+ue azure5.3工程包
+
+链接：https://pan.baidu.com/s/1xweuSUckmHLgcxO1RbY8yg?pwd=q8zv
+
+2024-08-29
+
+1、ue azure版提供最新一键包；
+
+2、ue azure版降级到5.3稳定版；
+
+3、ue azure版支持打包后配置azure key。
 
 2024-07-24
 

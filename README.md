@@ -19,6 +19,7 @@
 UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
 插件：FayConnector、Runtime Audio lmporter、AZSpeech(key在metahuman本体蓝图上配置)
+![ue数字人](images/5_4cj.png)
 
 改进：插件AZSpeech在5.4SoundWave无法播放问题；支持连接网页端。
 

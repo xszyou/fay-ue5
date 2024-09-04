@@ -14,9 +14,10 @@
 
 **同步更新工程(20240904)**
 
+**UE版本：5.4**
 ![ue数字人](images/5_4.png)
 
-UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
+唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
 插件：FayConnector、Runtime Audio lmporter、AZSpeech(key在metahuman本体蓝图上配置)
 ![ue数字人](images/5_4cj.png)
@@ -25,9 +26,12 @@ UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口�
 
 UE 5.4工程包下载链接：https://pan.baidu.com/s/1tF9uFwXsnV8D5fMojqfT8w?pwd=gzu5
 
+
+
+**UE版本：5.3**
 ![ue数字人](images/new.png)
 
-UE版本：5.3，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
+唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
 插件：AZSpeech(key在metahuman本体蓝图上配置)
 

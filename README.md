@@ -12,7 +12,17 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240829)**
+**同步更新工程(20240904)**
+
+![ue数字人](images/5_4.png)
+
+UE版本：5.4，唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
+
+插件：FayConnector、Runtime Audio lmporter、AZSpeech(key在metahuman本体蓝图上配置)
+
+改进：插件AZSpeech在5.4SoundWave无法播放问题；支持连接网页端。
+
+UE 5.4工程包下载链接：https://pan.baidu.com/s/1tF9uFwXsnV8D5fMojqfT8w?pwd=gzu5
 
 ![ue数字人](images/new.png)
 
@@ -29,6 +39,14 @@ ue azure运行包
 ue azure5.3工程包
 
 链接：https://pan.baidu.com/s/1xweuSUckmHLgcxO1RbY8yg?pwd=q8zv
+
+2024-09-04
+
+更新Fay-UE5.4
+
+1、解决插件AZSpeech在5.4SoundWave无法播放问题；
+
+2、支持连接网页端。
 
 2024-08-29
 

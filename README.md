@@ -12,19 +12,29 @@
 
 （加入交流群请关注公众号：fay数字人）
 
-**同步更新工程(20240904)**
+**同步更新工程(20241009)**
 
-**UE版本：5.4**
+**UE版本：Fay5_4_Oct**
 ![ue数字人](images/5_4.png)
+
 
 唇型：azure ，音频：azure，ASR：azure，驱动接口：Fay及其他gpt兼容接口。
 
 插件：FayConnector、Runtime Audio lmporter、AZSpeech(key在metahuman本体蓝图上配置)
 ![ue数字人](images/5_4cj.png)
 
+改进：1、与fay的对接方式更新为流式对接;2、会从fay小段文字接收然后做tts处理，这样可以更快速作出响应。
+
+UE 5.4Oct工程包下载链接：https://pan.baidu.com/s/1Gxzi_DgST7Jh90s6tGOlew?pwd=32fe
+
+
+
+
+**UE版本：Fay5_4_Sep**
+
 改进：插件AZSpeech在5.4SoundWave无法播放问题；支持连接网页端。
 
-UE 5.4工程包下载链接：https://pan.baidu.com/s/1tF9uFwXsnV8D5fMojqfT8w?pwd=gzu5
+UE Fay5_4_Sep工程包下载链接：https://pan.baidu.com/s/1tF9uFwXsnV8D5fMojqfT8w?pwd=gzu5
 
 
 
@@ -44,6 +54,14 @@ ue azure运行包
 ue azure5.3工程包
 
 链接：https://pan.baidu.com/s/1xweuSUckmHLgcxO1RbY8yg?pwd=q8zv
+
+2024-10-09
+
+更新Fay-UE5.4
+
+1、5.4Oct工程，与fay的对接方式更新为流式对接；
+
+2、会从fay小段文字接收然后做tts处理，这样可以更快速作出响应。
 
 2024-09-04
 

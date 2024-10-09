@@ -23,9 +23,9 @@
 插件：FayConnector、Runtime Audio lmporter、AZSpeech(key在metahuman本体蓝图上配置)
 ![ue数字人](images/5_4cj.png)
 
-改进：1、与fay的对接方式更新为流式对接;2、会从fay小段文字接收然后做tts处理，这样可以更快速作出响应。
+改进：1、与fay的对接方式更新为流式对接; 2、会从fay小段文字接收然后做tts处理，这样可以更快速作出响应。
 
-UE 5.4Oct工程包下载链接：https://pan.baidu.com/s/1Gxzi_DgST7Jh90s6tGOlew?pwd=32fe
+UE Fay5_4_Oct工程包下载链接：https://pan.baidu.com/s/1Gxzi_DgST7Jh90s6tGOlew?pwd=32fe
 
 
 
